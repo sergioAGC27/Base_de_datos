@@ -9,5 +9,5 @@ def get_connection():
         host="localhost",          # Dirección del servidor MySQL
         user="admin",              # Usuario de la base de datos
         password="tu_contraseña",  # Contraseña del usuario
-        database="jardineria_db"   # Nombre de la base de datos
+        database="jardineria"   # Nombre de la base de datos
     )
